@@ -33,7 +33,7 @@ CareerGuide is a modern web application that helps job seekers in Kenya discover
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/careerguide.git
+git clone https://github.com/Githu77/careerguide.ai.git
 cd careerguide
 ```
 
